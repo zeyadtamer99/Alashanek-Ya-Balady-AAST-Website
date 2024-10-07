@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "825645594978",
+    "project_id": "ayb-database-28aee",
+    "storage_bucket": "ayb-database-28aee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825645594978:android:8ec65b432130ad43f9943b",
+        "android_client_info": {
+          "package_name": "com.example.ayb_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825645594978-v4ok2n5ihic16pu3dtuq906a091slurj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMzFgcPbYvPltoD5IT9I5QImJJq17TgJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825645594978-v4ok2n5ihic16pu3dtuq906a091slurj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "825645594978-kenabd0b1oj11u7gqpga5ome9n1332sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aybDatabase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
